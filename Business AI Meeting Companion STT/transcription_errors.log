@@ -1,0 +1,6 @@
+ERROR:root:IndexError: index 26144 is out of bounds for dimension 0 with size 26144
+Audio file path: C:\Users\User\AppData\Local\Temp\gradio\d90cc6cbc1f488fc2531acc7acf11cd8274b0065\Testing speech to text.wav
+Please ensure the audio file is correctly formatted and try again.
+ERROR:root:IndexError: index -4678787053791372298 is out of bounds for dimension 0 with size 49294
+Audio file path: C:\Users\User\AppData\Local\Temp\gradio\d1dd0beb5879b22fbf65cf1bfc371a28d769b4fa\English Listening Practice-Your FINAL Moments In Life Ep 760-3cab10.wav
+Please ensure the audio file is correctly formatted and try again.
